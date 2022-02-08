@@ -1,0 +1,87 @@
+*{
+   box-sizing: border-box;
+   padding: 0;
+   margin: 0;
+}
+
+.titulo{
+    display: flex;
+    color: black;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+      height: 10vh;
+      background-color: bisque;
+    cursor: pointer;
+    font-size: 45px;
+}
+
+.img-frida{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+.img-frida img{
+   width: 100%;
+   height: 60vh;
+   border: 5px solid black;
+}
+
+.biografia{
+    font-size: 40px;
+    display: flex;
+    color: black;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: bisque;
+}
+
+
+.obras{
+    
+    font-size: 40px;
+    text-align: center;
+    cursor: pointer;
+     width: 100%;
+     height: 100%;
+  
+    text-decoration: none;
+}
+
+.ul{
+  
+    width: 100%;
+    height: 100%;
+}
+
+
+.caixa {
+   
+    background-color: beige;
+    width: 100vw;
+    height: 100vh;
+    
+}
+.imagens {
+    border:8px solid black;
+     width: 85vw;
+     height: 400px;
+     margin-top: 50px;
+}
+.titulo-dois {
+    background-color: beige;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+footer p {
+    color: black;
+    text-align: center;
+    font-size: 40px;
+    background-color: bisque;
+}
